@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo_list
 
 Um aplicativo de lista de afazeres.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# List-flutter
+Um aplicativo de lista feito em flutter
+>>>>>>> cc161d5fbae0876124e9ea95b9c85f7b48cc8f09
